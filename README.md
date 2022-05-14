@@ -1,4 +1,4 @@
-# trainGAN - generative art
+# trainGAN - generative art(HCL)
 
 ## Introduction:
 
