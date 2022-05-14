@@ -26,26 +26,29 @@ The generator is trained using a dataset to generate new examples and the discri
 
 The dataset used in this project is imported from Kaggle. The dataset "Best artworks of all time" is used for training puposes to generate abstract art.
 
-![UI](dataset.png)
+![dataset](https://user-images.githubusercontent.com/80472408/168446300-aedec611-298e-47f9-9a48-1f7a187815fc.png)
 
-## GAN Architecture:
-
+## Architecture:
 ---
 
 <p align="middle">
-    <img src="C:\Users\Samhitha\Pictures\Saved Pictures" width="370" height="470">
-  </p>
+    
+![ARTGAN architecture resized](https://user-images.githubusercontent.com/80472408/168446459-4ef64499-f343-4282-864f-4f413661be9c.png)
+    
+</p>
  
 Result:
 ----
 
-**generated-image-final**
+**generated image-final**
 
-![UI](gen_image.png)
+![gen_image](https://user-images.githubusercontent.com/80472408/168446240-12e42a8c-eba5-4168-b184-3321fb9acff8.png)
 
-**generated-image-sample**
 
-![UI](generated_image.JPG)
+**generated image-sample**
+
+![generated_image](https://user-images.githubusercontent.com/80472408/168446254-8e59c541-4379-418b-8280-a3fdfa842622.png)
+
 
 ## Conclusion:
 
