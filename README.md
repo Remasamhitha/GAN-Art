@@ -3,8 +3,8 @@
 ## Introduction:
 
 ---
-                                              "Good artists copy, great artists steal"
-                                                                                      - Pablo Picasso
+                                         "Good artists copy, great artists steal"
+                                                                                - Pablo Picasso
 
 This mini-project on Generative art is trained by classical, renaissance paintings with the aid of deep learning and PyTorch to generate a myriad of visual generations that come with a sense of odd familiarity.
 
